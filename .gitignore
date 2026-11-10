@@ -1,0 +1,15 @@
+Debug/
+Release/
+.settings/
+*.launch
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+.DS_Store
+Thumbs.db
+desktop.ini
